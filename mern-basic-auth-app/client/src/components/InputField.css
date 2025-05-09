@@ -1,0 +1,21 @@
+.input-field {
+    margin-bottom: 1rem;
+}
+
+.input-label {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+}
+
+.input-element {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-error {
+    color: red;
+    font-size: 0.875rem;
+}
