@@ -17,7 +17,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) authentication appl
 
 # 📁 Project Structure
 ```
-mern-signin-signup-app/
+mern-basic-auth-app/
 │
 ├── client/     # React frontend
 |   ├── .gitignore
