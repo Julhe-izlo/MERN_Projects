@@ -9,7 +9,6 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) authentication appl
 - User Login with JWT token issuance
 - Password hashing using `bcryptjs`
 - JWT-based authentication and route protection
-- Reset Password via secure token and email link
 - Frontend form validation and basic UI
 
 ## 🚧 Non-functional (Under Debugging)
